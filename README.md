@@ -1,4 +1,5 @@
 # Crop Prediction in India
+[Visit our website](https://colab.research.google.com/drive/1DLkg-MkPEmyeZPi0WUvyHvbLQ2DhVQ1v?usp=sharing)
 
 ## Overview
 
@@ -25,12 +26,8 @@ Use regression models, time series analysis, and data preprocessing for accurate
 
 Accurate crop yield predictions visualized through charts and graphs.
 
-## Contributors
-
-- [Your Name]
-- [Contributor 2]
-- [Contributor 3]
-
 ## License
 
 [MIT License](LICENSE)
+
+Connect :)
